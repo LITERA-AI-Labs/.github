@@ -2,25 +2,27 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/ORGANIZATION-LITERA--AI--LABS-blueviolet?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/RESEARCH-AI--REASONING--%26--CYBERSECURITY-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SECURITY-ZERO--TRUST-red?style=for-the-badge" />
 </p>
 
-> **Next-Generation Autonomous AI Systems, Cybersecurity & Deep Intelligence Research Organization.**
+> **Next-Generation Autonomous AI Systems, LLM Reasoning Engines & Zero-Trust Cybersecurity Infrastructure.**
 
 ---
 
-### 🌐 Featured Open Source Repositories
+### 🌐 Open Source Ecosystem
 
-| Repository | Focus Area | Technology Stack | Status |
+| Repository | Category | Language | Status |
 | :--- | :--- | :--- | :--- |
-| 🧠 **[litera-reasoning-engine](https://github.com/LITERA-AI-Labs/litera-reasoning-engine)** | LLM Chain-of-Thought Reasoning | Python, PyTorch, CUDA | `Production` |
-| 🛡️ **[zero-trust-sentinel](https://github.com/LITERA-AI-Labs/zero-trust-sentinel)** | Kernel-Space eBPF Hardening | Rust, C, eBPF, Linux | `Production` |
-| ⚡ **[.github](https://github.com/LITERA-AI-Labs/.github)** | Organization Suite & Profile | Markdown, GitHub Actions | `Active` |
+| 🧠 **[litera-reasoning-engine](https://github.com/LITERA-AI-Labs/litera-reasoning-engine)** | Deep Reasoning Engine | Python, PyTorch | `v1.0.0` |
+| 🛡️ **[zero-trust-sentinel](https://github.com/LITERA-AI-Labs/zero-trust-sentinel)** | Kernel-Space eBPF Security | Rust, C, eBPF | `v1.0.0` |
+| 🐍 **[litera-sdk-python](https://github.com/LITERA-AI-Labs/litera-sdk-python)** | Official Python SDK | Python | `v1.0.0` |
+| ⚡ **[litera-sdk-js](https://github.com/LITERA-AI-Labs/litera-sdk-js)** | Official TypeScript SDK | TypeScript | `v1.0.0` |
+| 🤖 **[autonomous-agent-framework](https://github.com/LITERA-AI-Labs/autonomous-agent-framework)** | Multi-Agent Swarm | Rust | `Active` |
 
 ---
 
-### 👥 Core Maintainers & Research Team
+### 👥 Engineering Leadership & Research Team
 
 <table align="center">
   <tr>
@@ -65,5 +67,5 @@
 ---
 
 <p align="center">
-  <i>⚡ System Status: OPERATIONAL | All Nodes Online & Secured</i>
+  <i>⚡ LITERA-AI Inc. | Building Autonomous Intelligence for the Future</i>
 </p>
