@@ -15,6 +15,7 @@ LITERA-AI Labs is an advanced research and engineering organization specializing
 ### 🛡️ Core Maintainers & Researchers
 - 👑 **[Muhammad Lutfi Muzaki (@MuhammadLutfiMuzakiiVY)](https://github.com/MuhammadLutfiMuzakiiVY)** - *Founder & Lead Architect*
 - ⚡ **[Stancent (@Stancent)](https://github.com/Stancent)** - *Core Member & Researcher*
+- 💻 **[Fidia (@fidiakacoderlearner)](https://github.com/fidiakacoderlearner)** - *Core Member & Developer*
 - 🤖 **[litera-intelligence (@litera-intelligence)](https://github.com/litera-intelligence)** - *AI System Core*
 - ⚡ **[Zenvu-Js (@Zenvu-Js)](https://github.com/Zenvu-Js)** - *Distributed Systems*
 
